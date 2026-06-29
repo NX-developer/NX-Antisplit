@@ -37,7 +37,6 @@ final class ApkSignerHelper {
                 .setOutputApk(output)
                 .setV1SigningEnabled(true)
                 .setV2SigningEnabled(true)
-                .setV3SigningEnabled(true)
                 .build();
         signer.sign();
     }
