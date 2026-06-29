@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NX Antisplit</string>
+    <string name="subtitle">XAPK / APKS / APKX / APKM → düz APK</string>
+    <string name="pick">APK paketi seç</string>
+    <string name="save">Kaydet (Download)</string>
+    <string name="install">Yükle</string>
+</resources>
